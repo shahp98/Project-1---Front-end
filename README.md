@@ -3,7 +3,7 @@ created using HTML + CSS + Bootstrap
 
 This repository contains webpages without Back-end support.
 
-A top-fixed navigational bar is used and you can navigate to different linked pages.
+A top-fixed navigational bar is used and you can navigate to different linked pages. On reducing the size of the window, a toggle button gets added on the bar which will contain all the tabs.
 
 The Home page contains 2 posts.
 
